@@ -539,7 +539,7 @@ function Projects() {
       <div className="container">
         <div className="reveal">
           <div className="eyebrow">04 · projects</div>
-          <h2 className="section-title">Tables I've <span className="dim">built from scratch</span></h2>
+          <h2 className="section-title">Project's I've <span className="dim">built from scratch</span></h2>
           <p className="section-sub">Academic and self-driven builds — each one pairs a real workflow with the database behind it.</p>
         </div>
         <div className="projects-grid">
